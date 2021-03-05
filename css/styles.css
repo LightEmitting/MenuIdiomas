@@ -1,0 +1,47 @@
+.flag{
+    height: 30px;
+    z-index: 2;
+
+    position: relative;
+}
+
+.container{
+    text-align: right;
+    margin-top: 4%;
+    margin-right: 4%;
+}
+
+.image-5{
+    width: 100%; 
+    height: auto; 
+    margin-top: -5%;
+}
+
+.image-11{
+    width: 100%; 
+    height: auto; 
+    margin-top: -3%; 
+}
+
+.image-31{
+    width: 100%; 
+    height: auto; 
+    margin-top: -35%;
+}
+
+.powerby{
+    text-align: right; 
+    font-size: x-small; 
+    margin-top: -5%; 
+    margin-right: 3%;
+}
+
+
+.fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+  }
+  
